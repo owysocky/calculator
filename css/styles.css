@@ -1,0 +1,14 @@
+.btn {
+  float: right;
+}
+
+#output {
+  float: right;
+  font-weight: 200%;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 30px;
+}
+.marginH2{
+  margin-bottom: 10px;
+}
